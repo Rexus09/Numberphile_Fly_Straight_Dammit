@@ -9,6 +9,6 @@ numpy
 Quick Installation
 
 sudo apt install git python3 -y
-git clone /This url/
+git clone https://github.com/Rexus09/Numberphile_Fly_Straight_Dammit/tree/main
 pip3 install matplotlib numpy
 
