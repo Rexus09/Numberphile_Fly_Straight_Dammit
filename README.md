@@ -1,7 +1,7 @@
-# Numberphile_Fly_Straight_Dammit
+# Numberphile_Fly_Straight_Dammit#
 Python code to plot the numberphile algoritm from this video: https://www.youtube.com/watch?v=pAMgUB51XZA
 
-*Requirements*
+#Requirements#
 python2.7 or avobe
 matplotlib
 numpy
