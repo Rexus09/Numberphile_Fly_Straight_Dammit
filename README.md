@@ -14,3 +14,9 @@ git clone https://github.com/Rexus09/Numberphile_Fly_Straight_Dammit/tree/main
 
 pip3 install matplotlib numpy
 
+Now in the repository folder run:
+python3 numberphile.py <number of points> <color of points>
+  *To see the effect type a number over 700
+  *You can leave both parameters empty (default = black, 800 points)
+ Example:
+  python3 numberphile.py 1000 c 
